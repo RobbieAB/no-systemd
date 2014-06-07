@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>                                                                                                     
+<repositories version="1.0">
+    <repo priority="50" quality="experimental" status="unofficial">
+        <name>no-systemd</name>
+        <description>My attempt at an overlay profile</description>
+        <homepage>http://github.com/RobbieAB/no-systemd</homepage>
+        <owner>
+            <email>robert@robbieab.com</email>
+        </owner>
+        <source type="git">git://github.com/RobbieAB/no-systemd.git</source>
+    </repo>
+</repositories>
