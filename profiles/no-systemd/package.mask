@@ -1,1 +1,9 @@
+# Masking systemd is the entire point of this profile!
 sys-apps/systemd
+
+# Other systemd related packages.
+sys-apps/systemd-sysv-utils
+sys-apps/systemd-ui
+sys-devel/systemd-m4
+sys-apps/gentoo-systemd-integration
+kde-misc/kcmsystemd
