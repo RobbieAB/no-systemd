@@ -1,1 +1,2 @@
-amd64   no-systemd  exp
+amd64   no-systemd/default/linux/amd64/13.0     exp
+x86     no-systemd/default/linux/x86/13.0       exp
