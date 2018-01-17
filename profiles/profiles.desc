@@ -1,4 +1,5 @@
 amd64   no-systemd/default/linux/amd64/13.0     exp
+amd64   no-systemd/default/linux/amd64/17.0     exp
 amd64   no-systemd/hardened/linux/amd64         exp
 
 
