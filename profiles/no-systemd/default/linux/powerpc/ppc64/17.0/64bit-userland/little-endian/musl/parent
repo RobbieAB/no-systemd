@@ -1,0 +1,3 @@
+gentoo:default/linux/powerpc/ppc64/17.0/64bit-userland/little-endian
+gentoo:default/linux/musl/ppc
+no-systemd:no-systemd/base
