@@ -7,5 +7,3 @@ amd64   no-systemd/hardened/linux/amd64                     exp
 x86     no-systemd/default/linux/x86/13.0       exp
 x86     no-systemd/hardened/linux/x86/selinux   exp
 x86     no-systemd/default/linux/musl/x86       exp
-
-ppc64   no-systemd/default/linux/powerpc/ppc64/17.0/64bit-userland/little-endian/musl exp
