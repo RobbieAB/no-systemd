@@ -1,0 +1,2 @@
+# I am writing this profile for use with a TALOS, the ast driver is needed.
+-video_cards_ast
