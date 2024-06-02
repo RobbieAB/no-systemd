@@ -2,6 +2,7 @@ amd64   no-systemd/default/linux/amd64/13.0                 exp
 amd64   no-systemd/default/linux/amd64/17.0                 exp
 amd64   no-systemd/default/linux/amd64/17.1                 exp
 amd64   no-systemd/default/linux/amd64/23.0                 exp
+amd64   no-systemd/default/linux/amd64/23.0/split-usr       exp
 amd64   no-systemd/default/linux/amd64/17.0/musl/hardened   exp
 amd64   no-systemd/hardened/linux/amd64                     exp
 
